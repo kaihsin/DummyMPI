@@ -1,6 +1,5 @@
 #include <iostream>
 #include "MPI_Handler.hpp"
-#include "SSE_Type.hpp"
 #include <vector>
 
 using namespace std;

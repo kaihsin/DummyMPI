@@ -1,4 +1,4 @@
-**#A Simple class for fast Development of MPI in C++#**
+#A Simple class for fast Development of MPI in C++
 
 	Author : Kai-Hsin Wu
     email  : kaihsinwu@gmail.com
